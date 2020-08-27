@@ -1,1 +1,1 @@
-# EstacionamentoJavaScript
+# Sistema de estacionamento feito com JavaScript.
